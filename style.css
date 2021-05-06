@@ -1,0 +1,20 @@
+:root{
+  --bg-row-blue: #8dc6e4;
+  --bg-row-dark: #364049;
+
+}
+
+.outline{
+  outline: 1px solid red;
+}
+.font-cursive{
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+.bg-row-blue{
+  background-color: var(--bg-row-blue)
+}
+
+.bg-row-dark{
+  background-color: var(--bg-row-dark);
+}
